@@ -16,6 +16,6 @@ const app = Vue.createApp({
                 { id: 904, size: 'L'},
                 { id: 905, size: 'XL'},
             ]
-        }
+            inventory: 8        }
     }
 })
